@@ -1,0 +1,2 @@
+title: (受考古学启发而实现的数据库)An Archaeology-Inspired Database
+author: Yoav Rubin
